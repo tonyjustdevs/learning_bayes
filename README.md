@@ -19,3 +19,7 @@
 18. [Conjugate Priors](https://github.com/tonyjustdevs/learning_bayes/issues/18)
 19. [MCMC](https://github.com/tonyjustdevs/learning_bayes/issues/19)
 20. [Approximate Bayesian Computation](https://github.com/tonyjustdevs/learning_bayes/issues/20)
+
+"Think Bayes is a Free Book. It is available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0), which means that you are free to copy and modify it, as long as you attribute the work and don’t use it for commercial purposes."
+
+ref: [online book](https://allendowney.github.io/ThinkBayes2/index.html)
